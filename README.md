@@ -1,4 +1,4 @@
-# 🚀 IPO Listing Gain Prediction for Indian Markets
+# 🚀 IPO Listing Gain Prediction for Indian Markets (Ongoing Project)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.2%2B-orange?logo=scikit-learn)
