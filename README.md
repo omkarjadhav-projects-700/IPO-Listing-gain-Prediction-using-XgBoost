@@ -70,7 +70,7 @@ The dataset is manually curated by scraping and consolidating information from m
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
