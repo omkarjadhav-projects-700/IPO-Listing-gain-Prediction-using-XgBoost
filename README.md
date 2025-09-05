@@ -64,7 +64,7 @@ The dataset is manually curated by scraping and consolidating information from m
 
 ## 👨‍💻 Developer
 
-**Your Name**
+**Omkar Jadhav**
 *   LinkedIn: https://www.linkedin.com/in/omkar-jadhav-637807278/
 *   Email: omkarjadhav3540@gmail.com
 
