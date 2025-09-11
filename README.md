@@ -62,6 +62,12 @@ The dataset is manually curated by scraping and consolidating information from m
 *   Python 3.8+
 *   pip
 
+## References
+
+* https://www.analyticsvidhya.com/blog/2022/12/ultimate-guide-to-boosting-algorithms/
+* https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/
+* https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+
 ## 👨‍💻 Developer
 
 **Omkar Jadhav**
